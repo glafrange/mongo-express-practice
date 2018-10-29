@@ -77,3 +77,5 @@ typings/
 
 # Connection string
 config/keys.js
+
+# eslint .eslintrc.json
